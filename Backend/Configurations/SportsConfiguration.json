@@ -1,0 +1,182 @@
+{
+  "1": {
+    "SPORT_NAME": "Soccer",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Soccer",
+    "STATUS": "ON"
+  },
+  "2": {
+    "SPORT_NAME": "Basketball",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Basketball",
+    "STATUS": "ON"
+  },
+  "3": {
+    "SPORT_NAME": "Tennis",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 13,
+    "STATUS": "OFF"
+  },
+  "4": {
+    "SPORT_NAME": "Volleyball",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 91,
+    "STATUS": "OFF"
+  },
+  "5": {
+    "SPORT_NAME": "Handball",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 78,
+    "STATUS": "OFF"
+  },
+  "6": {
+    "SPORT_NAME": "Baseball",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Baseball",
+    "STATUS": "OFF"
+  },
+  "7": {
+    "SPORT_NAME": "HorseRacing",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID":2,
+    "STATUS": "OFF"
+  },
+  "8": {
+    "SPORT_NAME": "Greyhounds",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 4,
+    "STATUS": "OFF"
+  },
+  "9": {
+    "SPORT_NAME": "IceHockey",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 17,
+    "STATUS": "OFF"
+  },
+  "10": {
+    "SPORT_NAME": "Snooker",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 14,
+    "STATUS": "OFF"
+  },
+  "11": {
+    "SPORT_NAME": "American Football",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "American Football",
+    "STATUS": "OFF"
+  },
+  "12": {
+    "SPORT_NAME": "Cricket",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 3,
+    "STATUS": "ON"
+  },
+  "13": {
+    "SPORT_NAME": "Futsal",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 83,
+    "STATUS": "OFF"
+  },
+  "14": {
+    "SPORT_NAME": "Darts",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 15,
+    "STATUS": "OFF"
+  },
+  "15": {
+    "SPORT_NAME": "TableTennis",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 92,
+    "STATUS": "OFF"
+  },
+  "16": {
+    "SPORT_NAME": "Badminton",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 94,
+    "STATUS": "OFF"
+  },
+  "17": {
+    "SPORT_NAME": "RugbyUnion",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 8,
+    "STATUS": "OFF"
+  },
+  "18": {
+    "SPORT_NAME": "RugbyLeague",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Rugby League",
+    "STATUS": "OFF"
+  },
+  "19": {
+    "SPORT_NAME": "AustralianRules",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 36,
+    "STATUS": "OFF"
+  },
+  "20": {
+    "SPORT_NAME": "Bowls",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 66,
+    "STATUS": "OFF"
+  },
+  "21": {
+    "SPORT_NAME": "Boxing",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Boxing",
+    "STATUS": "OFF"
+  },
+  "22": {
+    "SPORT_NAME": "GaelicSports",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 75,
+    "STATUS": "OFF"
+  },
+  "23": {
+    "SPORT_NAME": "Floorball",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 90,
+    "STATUS": "OFF"
+  },
+  "24": {
+    "SPORT_NAME": "BeachVolleyball",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 95,
+    "STATUS": "OFF"
+  },
+  "25": {
+    "SPORT_NAME": "WaterPolo",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 110,
+    "STATUS": "OFF"
+  },
+  "26": {
+    "SPORT_NAME": "Squash",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 107,
+    "STATUS": "OFF"
+  },
+  "27": {
+    "SPORT_NAME": "ESports",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 151,
+    "STATUS": "OFF"
+  },
+  "28": {
+    "SPORT_NAME": "MMA",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 162,
+    "STATUS": "OFF"
+  },
+  "29": {
+    "SPORT_NAME": "Surfing",
+    "API_NAME": "BetsAPI",
+    "API_SPORT_ID": 148,
+    "STATUS": "OFF"
+  },
+  "30": {
+    "SPORT_NAME": "Ice Hockey",
+    "API_NAME": "OddsAPI",
+    "API_SPORT_ID": "Ice Hockey",
+    "STATUS": "ON"
+  }
+}

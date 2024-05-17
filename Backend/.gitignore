@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+**/*.log
+
+# PyCharm files
+.idea/
+*.iml
+*.ipynb_checkpoints/

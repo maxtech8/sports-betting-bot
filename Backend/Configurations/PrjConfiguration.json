@@ -1,0 +1,147 @@
+{
+  "PROJECT_DIR_PATH": "C:\\TelegramBot\\Backend\\",
+  "DataBase": "Firebase",
+  "Logger": {
+    "Logs_Folder_Path": "Logger\\Logs\\"
+  },
+  "Database": {
+    "Firebase": {
+      "Keys_File_Name": "Configurations\\FirebaseKeys.json"
+    }
+  },
+  "Commission": {
+    "OwnerID": "1712030560",
+    "Percentage": 0
+  },
+  "SpecificAPIParams": {
+    "OddsAPI": {
+      "Soccer": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Basketball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Tennis": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Volleyball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Handball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Baseball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "HorseRacing": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Greyhounds": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "IceHockey": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Snooker": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "American Football": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Cricket": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Futsal": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Darts": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "TableTennis": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Badminton": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "RugbyUnion": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "RugbyLeague": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "AustralianRules": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Bowls": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Boxing": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "GaelicSports": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Floorball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "BeachVolleyball": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "WaterPolo": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Squash": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "ESports": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "MMA": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Surfing": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      },
+      "Ice Hockey": {
+        "InplayEventsRefreshTimeInSeconds": 30,
+        "UpcomingEventsRefreshTimeInSeconds": 30
+      }
+    }
+  },
+  "UpcomingEventsReloadIntervalTimeInSeconds": 30,
+  "InplayEventsReloadIntervalTimeInSeconds": 30,
+  "ScoredEventsReloadIntervalTimeInSeconds": 30,
+  "UpcomingEventRefreshTimeInSeconds": 60,
+  "InplayEventRefreshTimeInSeconds": 60,
+  "UpcomingEventOddsRefreshTimeInSeconds": 30,
+  "InplayEventOddsRefreshTimeInSeconds": 30
+}
