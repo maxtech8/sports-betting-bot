@@ -1,4 +1,5 @@
 # firebase key
+# /Backend/Configurations/FirebaseKey.json
 {
   "type": "service_account",
   "project_id": "betting-bot-22ee0",
